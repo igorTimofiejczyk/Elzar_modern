@@ -580,7 +580,7 @@ section {
 
 .section-title {
   text-align: center;
-  padding-bottom: 30px;
+  padding-bottom: 10px;
 }
 
 .section-title h2 {
@@ -770,6 +770,17 @@ section {
   font-weight: 700;
   margin-bottom: 15px;
   font-size: 24px;
+}
+
+.services .content h4 {
+  font-weight: 1000;
+  margin-bottom: 20px;
+  font-size: 30px;
+}
+
+.services .content p li {
+  margin-bottom: 20px;
+  font-size: 18px;
 }
 
 .services .icon-box h4 a {
